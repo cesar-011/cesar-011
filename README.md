@@ -8,3 +8,19 @@
  </p>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
+I am César, a student and tech enthusiast with a passion for software development.
+
+<br>
+
+  
+ - 🔭 I am currently studying and participating in open-source projects. 😉
+
+- 👯 I’m looking forward to collaborate on c++ projects.
+
+- 🌱 Learning about computer science, artificial intelligence, and software development.
+
+
+- 💬 Ask me about anything!😉
+
+
+<br>
