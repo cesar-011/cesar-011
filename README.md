@@ -8,7 +8,7 @@
  </p>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
-I am César, a student and tech enthusiast with a passion for software development.
+I am Cesar, a computer engineering student passionate about computing and software development.
 
 <br>
 
