@@ -17,12 +17,18 @@ I am Cesar, a computer engineering student passionate about computing and softwa
 <p align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/Assembly-555555?style=for-the-badge&logo=cPU&logoColor=white" alt="Assembly"/>
+  <img src="https://img.shields.io/badge/Assembly-555555?style=for-the-badge&logo=intel&logoColor=white" alt="Assembly"/>
+  <img src="https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <br>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="Vim"/>
 </p>
 
 <br>
@@ -39,5 +45,5 @@ I am Cesar, a computer engineering student passionate about computing and softwa
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TuUsuarioDeGitHub&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=TuUsuario&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </div>
