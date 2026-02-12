@@ -43,7 +43,3 @@ I am Cesar, a computer engineering student passionate about computing and softwa
 - 💬 Ask me about anything! 😉
 
 <br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TuUsuario&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</div>
