@@ -29,6 +29,8 @@ I am César, a computer engineering student passionate about the world of data. 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
 </p>
 
 <br>
@@ -39,7 +41,7 @@ I am César, a computer engineering student passionate about the world of data. 
 
 - 🔭 I am currently studying and building projects focused on **Data Analytics and Machine Learning**.
 - 👯 I’m looking forward to collaborate on **Data Engineering** or **Artificial Intelligence** projects.
-- 🌱 Learning about **Data Architecture**, **Predictive Modeling**, and advanced **SQL/Python**.
+- 🌱 Currently learning and building Cloud Infrastructure with **GCP, Terraform, and Docker**, while solidifying my **Pandas/SQL** skills.
 - 💬 Ask me about anything! 😉
 
 <br>
